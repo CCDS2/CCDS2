@@ -1,3 +1,10 @@
+# Welcome to CCDS2's Profile
+
+Hey there! Welcome to my profile.
+
+Here's a little interactive script to help you get to know me better:
+
+```bash
 #!/bin/bash
 
 while true; do
