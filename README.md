@@ -1,57 +1,15 @@
-# Welcome to CCDS2's Profile
+<h1 align="center">Hi 👋, I'm CDS2</h1>
+<h3 align="center">A Dev from Switzerland</h3>
 
-Hey there! Welcome to my profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ccds2&label=Profile%20views&color=0e75b6&style=flat" alt="ccds2" /> </p>
 
-Here's a little interactive script to help you get to know me better:
+- 🔭 I’m currently working on [WebDev](https://github.com/CCDS2/WebDev)
 
-```bash
-#!/bin/bash
+- 🌱 I’m currently learning **Web Development**
 
-while true; do
-    echo "Welcome!"
-    echo "Please select an option:"
-    echo "1. Show my name"
-    echo "2. Show my interests"
-    echo "3. Show what I'm currently learning"
-    echo "4. Show what I'm looking to collaborate on"
-    echo "5. Show how to reach me"
-    echo "6. Show my pronouns"
-    echo "7. Show a fun fact"
-    echo "8. Exit"
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-    read -p "Select an option: " option
-
-    case $option in
-        1)
-            echo "My name is @CCDS2"
-            ;;
-        2)
-            echo "I'm interested in music/programming."
-            ;;
-        3)
-            echo "Currently, I'm learning Java, but also Docker."
-            ;;
-        4)
-            echo "If you ever want to collaborate on a project, feel free to reach out to me."
-            ;;
-        5)
-            echo "You can reach me via Discord: #CDS2"
-            ;;
-        6)
-            echo "My pronouns are: That/Guy"
-            ;;
-        7)
-            echo "PowerShell syntax, it's trash :)"
-            ;;
-        8)
-            echo "Goodbye!"
-            exit 0
-            ;;
-        *)
-            echo "Invalid option selected."
-            ;;
-    esac
-
-    sleep 8
-done
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
